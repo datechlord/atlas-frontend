@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethereum-bridge": "^0.6.2",
+    "ethers": "^4.0.47"
+  }
+}
